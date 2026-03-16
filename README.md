@@ -2,7 +2,7 @@
 Um gerenciador simples de tarefas feito em Java para rodar no terminal.
 O projeto foi criado para praticar Programação Orientada a Objetos (POO), uso de ArrayList, loops, e interação com o usuário via Scanner.
 
-#Funcionalidades
+## Funcionalidades
 
 •Criar tarefas
 
@@ -22,7 +22,7 @@ O projeto foi criado para praticar Programação Orientada a Objetos (POO), uso 
 
 •ArrayList
 
-#Como executar o projeto
+## Como executar o projeto
 
 1. Clone o repositório:
 
@@ -39,7 +39,8 @@ javac Tarefa.java
 4.Execute o programa:
 
 java Tarefa
-#Exemplo de uso
+
+## Exemplo de uso
 ------ MENU ------
 
 1 - Criar tarefa
@@ -48,7 +49,7 @@ java Tarefa
 
 3 - Sair
 
-#Exemplo de saída:
+## Exemplo de saída:
 
 ------ LISTA DE TAREFAS ------
 
@@ -61,7 +62,7 @@ Descrição da tarefa: POO
 Sua tarefa não foi concluida
 
 
-#Objetivo do projeto
+## Objetivo do projeto
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos básicos de Java e POO, como:
 
@@ -75,7 +76,7 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos básicos de J
 
 •interação com usuário
 
-#Possíveis melhorias futuras
+## Possíveis melhorias futuras
 
 • Marcar tarefa como concluída pelo número
 
