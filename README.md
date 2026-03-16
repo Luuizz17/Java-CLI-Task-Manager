@@ -34,7 +34,7 @@ cd java-cli-task-manager
 
 3. Compile o programa:
 
-javac Tarefa.java
+java Tarefa.java
 
 4.Execute o programa:
 
