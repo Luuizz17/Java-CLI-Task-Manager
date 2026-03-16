@@ -41,8 +41,11 @@ javac Tarefa.java
 java Tarefa
 #Exemplo de uso
 ------ MENU ------
+
 1 - Criar tarefa
+
 2 - Listar tarefas
+
 3 - Sair
 
 #Exemplo de saída:
@@ -50,9 +53,13 @@ java Tarefa
 ------ LISTA DE TAREFAS ------
 
 Tarefa 1
+
 Nome da tarefa: Estudar Java
+
 Descrição da tarefa: POO
+
 Sua tarefa não foi concluida
+
 
 #Objetivo do projeto
 
