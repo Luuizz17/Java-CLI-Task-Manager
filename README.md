@@ -26,7 +26,7 @@ O projeto foi criado para praticar Programação Orientada a Objetos (POO), uso 
 
 1. Clone o repositório:
 
- git clone https://github.com/seu-usuario/java-cli-task-manager.git
+ git clone https://github.com/Luuizz17/java-cli-task-manager.git
 
 2. Entre na pasta do projeto:
 
